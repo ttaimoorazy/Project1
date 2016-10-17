@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: ddf26877c00c743519935dbf7bfa7686
+timeCreated: 1476400280
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Capsule
+    100002: Capsule_2
+    100004: Capsule_3
+    100006: Capsule_4
+    100008: CINEMA_4D_Editor
+    100010: Cylinder_2
+    100012: Enemy
+    100014: Leg_1
+    100016: Leg_1_2
+    100018: Leg_1_3
+    100020: Leg_1_4
+    100022: Leg_1_5
+    100024: Leg_1_Goal
+    100026: Leg_1_Goal_2
+    100028: Leg_1_Goal_3
+    100030: Leg_1_Goal_4
+    100032: Leg_1_Pole
+    100034: Leg_1_Pole_2
+    100036: Leg_1_Pole_3
+    100038: Leg_1_Pole_4
+    100040: Leg_2
+    100042: Leg_3
+    100044: Leg_3_2
+    100046: //RootNode
+    100048: Leg_1_Goal__Copy_
+    100050: Leg_1_Goal__Copy__2
+    100052: Leg_1_Goal__Copy__3
+    100054: Leg_1_Goal__Copy__4
+    100056: Capsule_5
+    100058: Capsule_6
+    100060: Capsule_7
+    100062: Capsule_8
+    100064: Cylinder_2_2
+    100066: Enemy__Copy_
+    100068: Leg_1_10
+    100070: Leg_1_6
+    100072: Leg_1_7
+    100074: Leg_1_8
+    100076: Leg_1_9
+    100078: Leg_1_Goal_5
+    100080: Leg_1_Goal_6
+    100082: Leg_1_Goal_7
+    100084: Leg_1_Goal_8
+    100086: Leg_1_Goal__Copy__5
+    100088: Leg_1_Goal__Copy__6
+    100090: Leg_1_Goal__Copy__7
+    100092: Leg_1_Goal__Copy__8
+    100094: Leg_1_Pole_5
+    100096: Leg_1_Pole_6
+    100098: Leg_1_Pole_7
+    100100: Leg_1_Pole_8
+    100102: Leg_2_2
+    100104: Leg_3_3
+    100106: Leg_3_4
+    400000: Capsule
+    400002: Capsule_2
+    400004: Capsule_3
+    400006: Capsule_4
+    400008: CINEMA_4D_Editor
+    400010: Cylinder_2
+    400012: Enemy
+    400014: Leg_1
+    400016: Leg_1_2
+    400018: Leg_1_3
+    400020: Leg_1_4
+    400022: Leg_1_5
+    400024: Leg_1_Goal
+    400026: Leg_1_Goal_2
+    400028: Leg_1_Goal_3
+    400030: Leg_1_Goal_4
+    400032: Leg_1_Pole
+    400034: Leg_1_Pole_2
+    400036: Leg_1_Pole_3
+    400038: Leg_1_Pole_4
+    400040: Leg_2
+    400042: Leg_3
+    400044: Leg_3_2
+    400046: //RootNode
+    400048: Leg_1_Goal__Copy_
+    400050: Leg_1_Goal__Copy__2
+    400052: Leg_1_Goal__Copy__3
+    400054: Leg_1_Goal__Copy__4
+    400056: Capsule_5
+    400058: Capsule_6
+    400060: Capsule_7
+    400062: Capsule_8
+    400064: Cylinder_2_2
+    400066: Enemy__Copy_
+    400068: Leg_1_10
+    400070: Leg_1_6
+    400072: Leg_1_7
+    400074: Leg_1_8
+    400076: Leg_1_9
+    400078: Leg_1_Goal_5
+    400080: Leg_1_Goal_6
+    400082: Leg_1_Goal_7
+    400084: Leg_1_Goal_8
+    400086: Leg_1_Goal__Copy__5
+    400088: Leg_1_Goal__Copy__6
+    400090: Leg_1_Goal__Copy__7
+    400092: Leg_1_Goal__Copy__8
+    400094: Leg_1_Pole_5
+    400096: Leg_1_Pole_6
+    400098: Leg_1_Pole_7
+    400100: Leg_1_Pole_8
+    400102: Leg_2_2
+    400104: Leg_3_3
+    400106: Leg_3_4
+    2300000: Capsule
+    2300002: Capsule_2
+    2300004: Capsule_3
+    2300006: Capsule_4
+    2300008: Cylinder_2
+    2300010: Capsule_5
+    2300012: Capsule_6
+    2300014: Capsule_7
+    2300016: Capsule_8
+    2300018: Cylinder_2_2
+    3300000: Capsule
+    3300002: Capsule_2
+    3300004: Capsule_3
+    3300006: Capsule_4
+    3300008: Cylinder_2
+    3300010: Capsule_5
+    3300012: Capsule_6
+    3300014: Capsule_7
+    3300016: Capsule_8
+    3300018: Cylinder_2_2
+    4300000: Capsule
+    4300002: Capsule_2
+    4300004: Capsule_3
+    4300006: Capsule_4
+    4300008: Cylinder_2
+    4300010: Capsule_5
+    4300012: Capsule_6
+    4300014: Capsule_7
+    4300016: Capsule_8
+    4300018: Cylinder_2_2
+    7400000: Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Main
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Enemy
+        weight: 1
+      - path: Enemy/Cylinder_2
+        weight: 1
+      - path: Enemy/Leg_1
+        weight: 1
+      - path: Enemy/Leg_1/Capsule
+        weight: 1
+      - path: Enemy/Leg_1/Leg_1_2
+        weight: 1
+      - path: Enemy/Leg_1/Leg_1_Goal
+        weight: 1
+      - path: Enemy/Leg_1/Leg_1_Pole
+        weight: 1
+      - path: Enemy/Leg_2
+        weight: 1
+      - path: Enemy/Leg_2/Capsule_2
+        weight: 1
+      - path: Enemy/Leg_2/Leg_1_3
+        weight: 1
+      - path: Enemy/Leg_2/Leg_1_Goal_2
+        weight: 1
+      - path: Enemy/Leg_2/Leg_1_Pole_2
+        weight: 1
+      - path: Enemy/Leg_3
+        weight: 1
+      - path: Enemy/Leg_3/Capsule_3
+        weight: 1
+      - path: Enemy/Leg_3/Leg_1_4
+        weight: 1
+      - path: Enemy/Leg_3/Leg_1_Goal_3
+        weight: 1
+      - path: Enemy/Leg_3/Leg_1_Pole_3
+        weight: 1
+      - path: Enemy/Leg_3_2
+        weight: 1
+      - path: Enemy/Leg_3_2/Capsule_4
+        weight: 1
+      - path: Enemy/Leg_3_2/Leg_1_5
+        weight: 1
+      - path: Enemy/Leg_3_2/Leg_1_Goal_4
+        weight: 1
+      - path: Enemy/Leg_3_2/Leg_1_Goal__Copy_
+        weight: 1
+      - path: Enemy/Leg_3_2/Leg_1_Pole_4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: e704eacd96e594ea0b90ab25c9f0e89e
+timeCreated: 1476593480
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_Ring
+    100002: BODY
+    100004: Body
+    100006: Cap_1
+    100008: Cap_1_2
+    100010: Cap_1_3
+    100012: Cap_1_4
+    100014: Cap_1_5
+    100016: Cap_1_6
+    100018: Cap_2
+    100020: Cap_2_2
+    100022: Cap_2_3
+    100024: Cap_2_4
+    100026: Cap_2_5
+    100028: Cap_2_6
+    100030: CINEMA_4D_Editor
+    100032: Cube_1
+    100034: Cylinder
+    100036: Cylinder_1
+    100038: Cylinder_2
+    100040: Cylinder_3
+    100042: Disc
+    100044: Eye
+    100046: Eye_Tube_Fixed
+    100048: HEAD__Rotate_
+    100050: HEAD__Rotate__2
+    100052: Head_Dome
+    100054: Head_Dome_2
+    100056: Inner_Eye
+    100058: L_Arm_Bottom_Pivot
+    100060: L_Arm_Bottom_ROTATE
+    100062: L_Arm_Top
+    100064: L_Arm_Top_ROTATE_1
+    100066: L_Elbow_Pivot
+    100068: L_Hand_Bottom
+    100070: L_Hand_OPEN
+    100072: L_Hand_Pivot_ROTATE
+    100074: L_Hand_Top
+    100076: L_Thumb
+    100078: L_Thumb_Pivot_ROTATE
+    100080: L_Top_Arm_Pivot
+    100082: L_Wrist_01
+    100084: L_Wrist_01_ROTATE
+    100086: Lens
+    100088: Neck_Ring
+    100090: Oil_Tank_1
+    100092: Oil_Tank_1_2
+    100094: //RootNode
+    100096: R_Arm_Bottom
+    100098: R_Arm_Bottom_2
+    100100: R_Arm_Bottom_Pivot
+    100102: R_Arm_Bottom_ROTATE
+    100104: R_Arm_Top
+    100106: R_Arm_Top_ROTATE
+    100108: R_Elbow_Pivot
+    100110: R_Hand_Bottom
+    100112: R_Hand_OPEN
+    100114: R_Hand_Pivot_ROTATE
+    100116: R_Hand_Top
+    100118: R_Thumb
+    100120: R_Thumb_Pivot_ROTATE
+    100122: R_Top_Arm_Pivot
+    100124: R_Wrist_01
+    100126: R_Wrist_01_ROTATE
+    100128: Robot
+    100130: Rounding_1
+    100132: Rounding_1_2
+    100134: Rounding_1_3
+    100136: Rounding_1_4
+    100138: Rounding_1_5
+    100140: Rounding_1_6
+    100142: Rounding_2
+    100144: Rounding_2_2
+    100146: Rounding_2_3
+    100148: Rounding_2_4
+    100150: Rounding_2_5
+    100152: Rounding_2_6
+    100154: Shoulder_Pivot
+    100156: Top_of_Arm_Pivot_Bar_Fixed
+    100158: Top_of_Arm_Pivot_Bar_Fixed_2
+    100160: Tube
+    100162: Tube_1
+    100164: Wrist_Boole_Obj
+    100166: Wrist_Boole_Obj_2
+    100168: Wrist_Detail
+    100170: Wrist_Detail_2
+    100172: Wrist_Pivot_Cut_Out
+    100174: Wrist_Pivot_Cut_Out_2
+    400000: Base_Ring
+    400002: BODY
+    400004: Body
+    400006: Cap_1
+    400008: Cap_1_2
+    400010: Cap_1_3
+    400012: Cap_1_4
+    400014: Cap_1_5
+    400016: Cap_1_6
+    400018: Cap_2
+    400020: Cap_2_2
+    400022: Cap_2_3
+    400024: Cap_2_4
+    400026: Cap_2_5
+    400028: Cap_2_6
+    400030: CINEMA_4D_Editor
+    400032: Cube_1
+    400034: Cylinder
+    400036: Cylinder_1
+    400038: Cylinder_2
+    400040: Cylinder_3
+    400042: Disc
+    400044: Eye
+    400046: Eye_Tube_Fixed
+    400048: HEAD__Rotate_
+    400050: HEAD__Rotate__2
+    400052: Head_Dome
+    400054: Head_Dome_2
+    400056: Inner_Eye
+    400058: L_Arm_Bottom_Pivot
+    400060: L_Arm_Bottom_ROTATE
+    400062: L_Arm_Top
+    400064: L_Arm_Top_ROTATE_1
+    400066: L_Elbow_Pivot
+    400068: L_Hand_Bottom
+    400070: L_Hand_OPEN
+    400072: L_Hand_Pivot_ROTATE
+    400074: L_Hand_Top
+    400076: L_Thumb
+    400078: L_Thumb_Pivot_ROTATE
+    400080: L_Top_Arm_Pivot
+    400082: L_Wrist_01
+    400084: L_Wrist_01_ROTATE
+    400086: Lens
+    400088: Neck_Ring
+    400090: Oil_Tank_1
+    400092: Oil_Tank_1_2
+    400094: //RootNode
+    400096: R_Arm_Bottom
+    400098: R_Arm_Bottom_2
+    400100: R_Arm_Bottom_Pivot
+    400102: R_Arm_Bottom_ROTATE
+    400104: R_Arm_Top
+    400106: R_Arm_Top_ROTATE
+    400108: R_Elbow_Pivot
+    400110: R_Hand_Bottom
+    400112: R_Hand_OPEN
+    400114: R_Hand_Pivot_ROTATE
+    400116: R_Hand_Top
+    400118: R_Thumb
+    400120: R_Thumb_Pivot_ROTATE
+    400122: R_Top_Arm_Pivot
+    400124: R_Wrist_01
+    400126: R_Wrist_01_ROTATE
+    400128: Robot
+    400130: Rounding_1
+    400132: Rounding_1_2
+    400134: Rounding_1_3
+    400136: Rounding_1_4
+    400138: Rounding_1_5
+    400140: Rounding_1_6
+    400142: Rounding_2
+    400144: Rounding_2_2
+    400146: Rounding_2_3
+    400148: Rounding_2_4
+    400150: Rounding_2_5
+    400152: Rounding_2_6
+    400154: Shoulder_Pivot
+    400156: Top_of_Arm_Pivot_Bar_Fixed
+    400158: Top_of_Arm_Pivot_Bar_Fixed_2
+    400160: Tube
+    400162: Tube_1
+    400164: Wrist_Boole_Obj
+    400166: Wrist_Boole_Obj_2
+    400168: Wrist_Detail
+    400170: Wrist_Detail_2
+    400172: Wrist_Pivot_Cut_Out
+    400174: Wrist_Pivot_Cut_Out_2
+    2300000: Base_Ring
+    2300002: Body
+    2300004: Cap_1
+    2300006: Cap_1_2
+    2300008: Cap_1_3
+    2300010: Cap_1_4
+    2300012: Cap_1_5
+    2300014: Cap_1_6
+    2300016: Cap_2
+    2300018: Cap_2_2
+    2300020: Cap_2_3
+    2300022: Cap_2_4
+    2300024: Cap_2_5
+    2300026: Cap_2_6
+    2300028: Cube_1
+    2300030: Cylinder
+    2300032: Cylinder_1
+    2300034: Cylinder_2
+    2300036: Cylinder_3
+    2300038: Disc
+    2300040: Eye_Tube_Fixed
+    2300042: L_Arm_Bottom_Pivot
+    2300044: L_Arm_Top
+    2300046: L_Elbow_Pivot
+    2300048: L_Hand_Bottom
+    2300050: L_Hand_Pivot_ROTATE
+    2300052: L_Hand_Top
+    2300054: L_Thumb
+    2300056: L_Thumb_Pivot_ROTATE
+    2300058: L_Wrist_01
+    2300060: L_Wrist_01_ROTATE
+    2300062: Lens
+    2300064: Neck_Ring
+    2300066: Oil_Tank_1
+    2300068: Oil_Tank_1_2
+    2300070: R_Arm_Bottom
+    2300072: R_Arm_Bottom_2
+    2300074: R_Arm_Bottom_Pivot
+    2300076: R_Arm_Top
+    2300078: R_Elbow_Pivot
+    2300080: R_Hand_Bottom
+    2300082: R_Hand_Pivot_ROTATE
+    2300084: R_Hand_Top
+    2300086: R_Thumb
+    2300088: R_Thumb_Pivot_ROTATE
+    2300090: R_Wrist_01
+    2300092: R_Wrist_01_ROTATE
+    2300094: Rounding_1
+    2300096: Rounding_1_2
+    2300098: Rounding_1_3
+    2300100: Rounding_1_4
+    2300102: Rounding_1_5
+    2300104: Rounding_1_6
+    2300106: Rounding_2
+    2300108: Rounding_2_2
+    2300110: Rounding_2_3
+    2300112: Rounding_2_4
+    2300114: Rounding_2_5
+    2300116: Rounding_2_6
+    2300118: Shoulder_Pivot
+    2300120: Top_of_Arm_Pivot_Bar_Fixed
+    2300122: Top_of_Arm_Pivot_Bar_Fixed_2
+    2300124: Tube
+    2300126: Tube_1
+    2300128: Wrist_Boole_Obj
+    2300130: Wrist_Boole_Obj_2
+    2300132: Wrist_Detail
+    2300134: Wrist_Detail_2
+    3300000: Base_Ring
+    3300002: Body
+    3300004: Cap_1
+    3300006: Cap_1_2
+    3300008: Cap_1_3
+    3300010: Cap_1_4
+    3300012: Cap_1_5
+    3300014: Cap_1_6
+    3300016: Cap_2
+    3300018: Cap_2_2
+    3300020: Cap_2_3
+    3300022: Cap_2_4
+    3300024: Cap_2_5
+    3300026: Cap_2_6
+    3300028: Cube_1
+    3300030: Cylinder
+    3300032: Cylinder_1
+    3300034: Cylinder_2
+    3300036: Cylinder_3
+    3300038: Disc
+    3300040: Eye_Tube_Fixed
+    3300042: L_Arm_Bottom_Pivot
+    3300044: L_Arm_Top
+    3300046: L_Elbow_Pivot
+    3300048: L_Hand_Bottom
+    3300050: L_Hand_Pivot_ROTATE
+    3300052: L_Hand_Top
+    3300054: L_Thumb
+    3300056: L_Thumb_Pivot_ROTATE
+    3300058: L_Wrist_01
+    3300060: L_Wrist_01_ROTATE
+    3300062: Lens
+    3300064: Neck_Ring
+    3300066: Oil_Tank_1
+    3300068: Oil_Tank_1_2
+    3300070: R_Arm_Bottom
+    3300072: R_Arm_Bottom_2
+    3300074: R_Arm_Bottom_Pivot
+    3300076: R_Arm_Top
+    3300078: R_Elbow_Pivot
+    3300080: R_Hand_Bottom
+    3300082: R_Hand_Pivot_ROTATE
+    3300084: R_Hand_Top
+    3300086: R_Thumb
+    3300088: R_Thumb_Pivot_ROTATE
+    3300090: R_Wrist_01
+    3300092: R_Wrist_01_ROTATE
+    3300094: Rounding_1
+    3300096: Rounding_1_2
+    3300098: Rounding_1_3
+    3300100: Rounding_1_4
+    3300102: Rounding_1_5
+    3300104: Rounding_1_6
+    3300106: Rounding_2
+    3300108: Rounding_2_2
+    3300110: Rounding_2_3
+    3300112: Rounding_2_4
+    3300114: Rounding_2_5
+    3300116: Rounding_2_6
+    3300118: Shoulder_Pivot
+    3300120: Top_of_Arm_Pivot_Bar_Fixed
+    3300122: Top_of_Arm_Pivot_Bar_Fixed_2
+    3300124: Tube
+    3300126: Tube_1
+    3300128: Wrist_Boole_Obj
+    3300130: Wrist_Boole_Obj_2
+    3300132: Wrist_Detail
+    3300134: Wrist_Detail_2
+    4300000: Shoulder_Pivot
+    4300002: R_Elbow_Pivot
+    4300004: R_Arm_Top
+    4300006: R_Thumb_Pivot_ROTATE
+    4300008: R_Thumb
+    4300010: Rounding_1
+    4300012: Cap_1
+    4300014: Rounding_2
+    4300016: Cap_2
+    4300018: R_Hand_Pivot_ROTATE
+    4300020: R_Hand_Top
+    4300022: Rounding_1_2
+    4300024: Cap_1_2
+    4300026: Rounding_2_2
+    4300028: Cap_2_2
+    4300030: Wrist_Detail
+    4300032: R_Wrist_01_ROTATE
+    4300034: R_Hand_Bottom
+    4300036: Rounding_1_3
+    4300038: Cap_1_3
+    4300040: Rounding_2_3
+    4300042: Cap_2_3
+    4300044: R_Wrist_01
+    4300046: R_Arm_Bottom
+    4300048: Wrist_Boole_Obj
+    4300050: R_Arm_Bottom_Pivot
+    4300052: Cylinder
+    4300054: Cube_1
+    4300056: L_Elbow_Pivot
+    4300058: L_Arm_Top
+    4300060: L_Thumb_Pivot_ROTATE
+    4300062: L_Thumb
+    4300064: Rounding_1_4
+    4300066: Cap_1_4
+    4300068: Rounding_2_4
+    4300070: Cap_2_4
+    4300072: L_Hand_Pivot_ROTATE
+    4300074: L_Hand_Top
+    4300076: Rounding_1_5
+    4300078: Cap_1_5
+    4300080: Rounding_2_5
+    4300082: Cap_2_5
+    4300084: Wrist_Detail_2
+    4300086: L_Wrist_01_ROTATE
+    4300088: L_Hand_Bottom
+    4300090: Rounding_1_6
+    4300092: Cap_1_6
+    4300094: Rounding_2_6
+    4300096: Cap_2_6
+    4300098: L_Wrist_01
+    4300100: R_Arm_Bottom_2
+    4300102: Wrist_Boole_Obj_2
+    4300104: L_Arm_Bottom_Pivot
+    4300106: Oil_Tank_1
+    4300108: Cylinder_2
+    4300110: Disc
+    4300112: Top_of_Arm_Pivot_Bar_Fixed
+    4300114: Top_of_Arm_Pivot_Bar_Fixed_2
+    4300116: Body
+    4300118: Base_Ring
+    4300120: Oil_Tank_1_2
+    4300122: Cylinder_3
+    4300124: Tube_1
+    4300126: Lens
+    4300128: Tube
+    4300130: Cylinder_1
+    4300132: Neck_Ring
+    4300134: Eye_Tube_Fixed
+    7400000: Move
+    7400002: Idle
+    7400004: Death
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom
+    clipAnimations:
+    - serializedVersion: 16
+      name: Move
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot/BODY
+        weight: 1
+      - path: Robot/BODY/Base_Ring
+        weight: 1
+      - path: Robot/BODY/Body
+        weight: 1
+      - path: Robot/BODY/Disc
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Cylinder_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Oil_Tank_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Cylinder_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Lens
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye_Tube_Fixed
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Cylinder_3
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Oil_Tank_1_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Neck_Ring
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5/Cap_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5/Cap_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6/Cap_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6/Cap_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/Wrist_Detail_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4/Cap_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4/Cap_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Wrist_01
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/R_Arm_Bottom_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/Wrist_Boole_Obj_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Elbow_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cube_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cylinder
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2/Cap_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2/Cap_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3/Cap_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3/Cap_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/Wrist_Detail
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1/Cap_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2/Cap_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Wrist_01
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/R_Arm_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/Wrist_Boole_Obj
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Elbow_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot/Shoulder_Pivot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Main
+      firstFrame: 121
+      lastFrame: 194
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot/BODY
+        weight: 1
+      - path: Robot/BODY/Base_Ring
+        weight: 1
+      - path: Robot/BODY/Body
+        weight: 1
+      - path: Robot/BODY/Disc
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Cylinder_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Oil_Tank_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Cylinder_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Lens
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye_Tube_Fixed
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Cylinder_3
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Oil_Tank_1_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Neck_Ring
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5/Cap_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5/Cap_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6/Cap_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6/Cap_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/Wrist_Detail_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4/Cap_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4/Cap_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Wrist_01
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/R_Arm_Bottom_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/Wrist_Boole_Obj_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Elbow_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cube_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cylinder
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2/Cap_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2/Cap_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3/Cap_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3/Cap_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/Wrist_Detail
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1/Cap_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2/Cap_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Wrist_01
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/R_Arm_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/Wrist_Boole_Obj
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Elbow_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot/Shoulder_Pivot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Main
+      firstFrame: 195
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.35563016
+        functionName: StartSinking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Robot
+        weight: 1
+      - path: Robot/BODY
+        weight: 1
+      - path: Robot/BODY/Base_Ring
+        weight: 1
+      - path: Robot/BODY/Body
+        weight: 1
+      - path: Robot/BODY/Disc
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed
+        weight: 1
+      - path: Robot/BODY/Top_of_Arm_Pivot_Bar_Fixed_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Cylinder_2
+        weight: 1
+      - path: Robot/HEAD__Rotate_/Head_Dome/Oil_Tank_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Cylinder_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Lens
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye/Inner_Eye/Tube_1
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Eye_Tube_Fixed
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Cylinder_3
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Head_Dome_2/Oil_Tank_1_2
+        weight: 1
+      - path: Robot/HEAD__Rotate__2/Neck_Ring
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_1_5/Cap_1_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Hand_Top/Rounding_2_5/Cap_2_5
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_1_6/Cap_1_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/L_Wrist_01_ROTATE/L_Hand_Bottom/Rounding_2_6/Cap_2_6
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Hand_Pivot_ROTATE/Wrist_Detail_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_1_4/Cap_1_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Hand_OPEN/L_Thumb_Pivot_ROTATE/L_Thumb/Rounding_2_4/Cap_2_4
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/L_Wrist_01
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/R_Arm_Bottom_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out_2/Wrist_Boole_Obj_2
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Arm_Top
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Elbow_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cube_1
+        weight: 1
+      - path: Robot/L_Arm_Top_ROTATE_1/L_Top_Arm_Pivot/Cylinder
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Arm_Bottom_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_1_2/Cap_1_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Hand_Top/Rounding_2_2/Cap_2_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_1_3/Cap_1_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/R_Wrist_01_ROTATE/R_Hand_Bottom/Rounding_2_3/Cap_2_3
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Hand_Pivot_ROTATE/Wrist_Detail
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_1/Cap_1
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Hand_OPEN/R_Thumb_Pivot_ROTATE/R_Thumb/Rounding_2/Cap_2
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/R_Wrist_01
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/R_Arm_Bottom
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Bottom_ROTATE/Wrist_Pivot_Cut_Out/Wrist_Boole_Obj
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Arm_Top
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Elbow_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot
+        weight: 1
+      - path: Robot/R_Arm_Top_ROTATE/R_Top_Arm_Pivot/Shoulder_Pivot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
